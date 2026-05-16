@@ -1,0 +1,12 @@
+{
+	"name": "Friday Night Funkin'",
+	"description": "THE TRUE FNF EXPERIENCE ON VIROVIROICE ENGINE!",
+	"enableSticker": true,
+	"restart":true,
+	"runsGlobally": false,
+	"color": [255, 228, 46],
+		"states": {
+			"MainMenuState": "VsliceMainMenu",
+			"StoryMenuState": "VsliceStoryMenu"
+		}
+}

@@ -1,0 +1,45 @@
+{
+	"storyName": "tankman",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"ugh",
+			"tankman",
+			[
+				255,
+				173,
+				53
+			]
+		],
+		[
+			"guns",
+			"tankman",
+			[
+				255,
+				173,
+				53
+			]
+		],
+		[
+			"stress",
+			"tankman",
+			[
+				255,
+				173,
+				53
+			]
+		]
+	],
+	"weekCharacters": [
+		"tankman",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week 7"
+}
