@@ -1,0 +1,9 @@
+{
+	"name": "Base Game Stages Recreations",
+	"description": "Contains every stage from Base Game with all the needed files and scripts.",
+	"restart":false,
+	"runsGlobally": true,
+	"color": [218, 96, 232],
+	"discordRPC": "863222024192262205",
+	"iconFramerate": 10
+}

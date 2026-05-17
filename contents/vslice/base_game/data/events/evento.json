@@ -1,0 +1,9 @@
+{
+  "description": "evento serelépe",
+  "fields": [
+    {"type": "input", "label": "Target", "value": 1, "default": "bf"},
+    {"type": "stepper", "label": "Zoom", "value": 2, "default": 0.03, "step": 0.01, "decimals": 2},
+    {"type": "toggle", "label": "Flash", "value": 3, "default": true},
+    {"type": "dropdown", "label": "Ease", "value": 4, "options": ["linear", "expoOut"]}
+  ]
+}

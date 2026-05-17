@@ -1,0 +1,45 @@
+{
+	"storyName": "pico",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"cocoa",
+			"parents",
+			[
+				206,
+				53,
+				213
+			]
+		],
+		[
+			"eggnog",
+			"parents",
+			[
+				206,
+				53,
+				213
+			]
+		],
+		[
+			"winter horrorland",
+			"monster",
+			[
+				206,
+				53,
+				213
+			]
+		]
+	],
+	"weekCharacters": [
+		"parents-xmas",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Week 5"
+}

@@ -1,9 +1,0 @@
-{
-	"idle_anim": "idle",
-	"image": "tankman",
-	"position": [47, -25],
-	"flipX": false,
-	"antialiasing": true,
-	"scale": 1,
-	"confirm_anim": "confirm"
-}
