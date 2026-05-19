@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<character assetPath="characters/sserafim/sserafim-gf" icon="gf" scale="1" singDuration="4" x="290" y="140" cameraX="140" cameraY="420" flipX="false" noAntialiasing="false" healthColor="#A5004D" vocalsFile="" vsliceHolds="true">
+	<assets>
+		<asset path="characters/sserafim/sserafim-gf"/>
+	</assets>
+	<animations>
+		<anim id="danceLeft" symbol="danceLeft" fps="24" loop="false" x="296" y="-200" playerX="296" playerY="-200"/>
+		<anim id="danceRight" symbol="danceRight" fps="24" loop="false" x="296" y="-200" playerX="293" playerY="63"/>
+		<anim id="singLEFT-all" symbol="left 1" fps="24" loop="false" x="297" y="-200" playerX="298" playerY="-199"/>
+		<anim id="singDOWN-all" symbol="down 1" fps="24" loop="false" x="296" y="-200" playerX="296" playerY="-199"/>
+		<anim id="singUP-all" symbol="up 1" fps="24" loop="false" x="297" y="-201" playerX="298" playerY="-201"/>
+		<anim id="singRIGHT-all" symbol="right 1" fps="24" loop="false" x="296" y="-201" playerX="296" playerY="-201"/>
+		<anim id="singLEFT-gf" symbol="left 2" fps="24" loop="false" x="296" y="-200" playerX="298" playerY="-199"/>
+		<anim id="singDOWN-gf" symbol="down 2" fps="24" loop="false" x="296" y="-199" playerX="296" playerY="-199"/>
+		<anim id="singUP-gf" symbol="up 2" fps="24" loop="false" x="297" y="-201" playerX="297" playerY="-201"/>
+		<anim id="singRIGHT-gf" symbol="right 2" fps="24" loop="false" x="295" y="-201" playerX="295" playerY="-200"/>
+		<anim id="singLEFTmiss-all" symbol="left miss 1" fps="24" loop="false" x="295" y="-201" playerX="295" playerY="-203"/>
+		<anim id="singDOWNmiss-all" symbol="down miss 1" fps="24" loop="false" x="295" y="-199" playerX="295" playerY="-200"/>
+		<anim id="singUPmiss-all" symbol="up miss 1" fps="24" loop="false" x="296" y="-204" playerX="299" playerY="-205"/>
+		<anim id="singRIGHTmiss-all" symbol="right miss 1" fps="24" loop="false" x="300" y="-203" playerX="293" playerY="-204"/>
+		<anim id="singLEFTmiss-gf" symbol="left miss 2" fps="24" loop="false" x="296" y="-200" playerX="298" playerY="-201"/>
+		<anim id="singDOWNmiss-gf" symbol="down miss 2" fps="24" loop="false" x="296" y="-196" playerX="294" playerY="-200"/>
+		<anim id="singUPmiss-gf" symbol="up miss 2" fps="24" loop="false" x="299" y="-201" playerX="295" playerY="-202"/>
+		<anim id="singRIGHTmiss-gf" symbol="right miss 2" fps="24" loop="false" x="295" y="-200" playerX="294" playerY="-201"/>
+	</animations>
+</character>

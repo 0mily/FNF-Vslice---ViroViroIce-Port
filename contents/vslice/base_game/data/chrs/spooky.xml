@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<character assetPath="characters/SpookyKids" icon="spooky" scale="1" singDuration="4" x="40" y="190" cameraX="60" cameraY="70" flipX="false" noAntialiasing="false" healthColor="#D57E00" vocalsFile="" vsliceHolds="true">
+	<assets>
+		<asset path="characters/SpookyKids"/>
+	</assets>
+	<animations>
+		<anim id="idle" symbol="spooky dance idle" fps="24" loop="false" x="59" y="-9" playerX="298" playerY="-202"/>
+		<anim id="singRIGHT" symbol="spooky sing right" fps="24" loop="false" x="-89" y="-22" playerX="252" playerY="-193"/>
+		<anim id="singLEFT" symbol="note sing left" fps="24" loop="false" x="176" y="-27" playerX="300" playerY="-201"/>
+		<anim id="hey" symbol="Spookiez YEAH cheer" fps="24" loop="false" x="109" y="12" playerX="295" playerY="-192"/>
+		<anim id="singDOWN" symbol="spooky DOWN note" fps="24" loop="false" x="56" y="-168" playerX="283" playerY="-247"/>
+		<anim id="singUP" symbol="spooky UP NOTE" fps="24" loop="false" x="31" y="13" playerX="288" playerY="-142"/>
+	</animations>
+</character>

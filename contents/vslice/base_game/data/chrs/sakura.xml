@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<character assetPath="characters/sserafim/sakura" icon="bf" scale="1" singDuration="4" x="290" y="140" cameraX="140" cameraY="420" flipX="true" noAntialiasing="false" healthColor="#31B0D1" vocalsFile="" vsliceHolds="true">
+	<assets>
+		<asset path="characters/sserafim/sakura"/>
+	</assets>
+	<animations>
+		<anim id="idle" symbol="idle" fps="24" loop="false" x="296" y="-200" playerX="293" playerY="63"/>
+		<anim id="singLEFT" symbol="bf left 1" fps="24" loop="false" x="290" y="-200" playerX="306" playerY="96"/>
+		<anim id="singDOWN" symbol="bf down 1" fps="24" loop="false" x="-13" y="-38" playerX="307" playerY="96"/>
+		<anim id="singUP" symbol="bf up 1" fps="24" loop="false" x="-9" y="65" playerX="308" playerY="97"/>
+		<anim id="singRIGHT" symbol="bf right 1" fps="24" loop="false" x="293" y="-201" playerX="306" playerY="96"/>
+		<anim id="singLEFT-alt" symbol="bf left 2" fps="24" loop="false" x="290" y="-200" playerX="307" playerY="96"/>
+		<anim id="singDOWN-alt" symbol="bf down 2" fps="24" loop="false" x="-13" y="-38" playerX="306" playerY="96"/>
+		<anim id="singUP-alt" symbol="bf up 2" fps="24" loop="false" x="-9" y="65" playerX="306" playerY="96"/>
+		<anim id="singRIGHT-alt" symbol="bf right 2" fps="24" loop="false" x="293" y="-201" playerX="307" playerY="95"/>
+		<anim id="singLEFT-saku" symbol="sakura pose left" fps="24" loop="false" x="290" y="-200" playerX="307" playerY="96"/>
+		<anim id="singDOWN-saku" symbol="sakura pose down" fps="24" loop="false" x="-13" y="-38" playerX="305" playerY="95"/>
+		<anim id="singUP-saku" symbol="sakura pose up" fps="24" loop="false" x="-9" y="65" playerX="305" playerY="96"/>
+		<anim id="singRIGHT-saku" symbol="sakura pose right" fps="24" loop="false" x="293" y="-201" playerX="305" playerY="96"/>
+		<anim id="singLEFTmiss" symbol="sakura left miss" fps="24" loop="false" x="299" y="-198" playerX="300" playerY="94"/>
+		<anim id="singDOWNmiss" symbol="sakura down miss" fps="24" loop="false" x="-8" y="-41" playerX="311" playerY="92"/>
+		<anim id="singUPmiss" symbol="sakura up miss" fps="24" loop="false" x="-8" y="64" playerX="308" playerY="96"/>
+		<anim id="singRIGHTmiss" symbol="sakura right miss" fps="24" loop="false" x="300" y="-203" playerX="306" playerY="94"/>
+		<anim id="singLEFT-all" symbol="joint pose left" fps="24" loop="false" x="290" y="-200" playerX="306" playerY="51"/>
+		<anim id="singDOWN-all" symbol="joint pose down" fps="24" loop="false" x="-13" y="-38" playerX="292" playerY="34"/>
+		<anim id="singUP-all" symbol="joint pose up" fps="24" loop="false" x="-9" y="65" playerX="272" playerY="96"/>
+		<anim id="singRIGHT-all" symbol="joint pose right" fps="24" loop="false" x="293" y="-201" playerX="257" playerY="69"/>
+		<anim id="singLEFTmiss-all" symbol="joint left miss" fps="24" loop="false" x="299" y="-198" playerX="304" playerY="98"/>
+		<anim id="singDOWNmiss-all" symbol="joint down miss" fps="24" loop="false" x="-8" y="-41" playerX="305" playerY="96"/>
+		<anim id="singUPmiss-all" symbol="joint up miss" fps="24" loop="false" x="-8" y="64" playerX="307" playerY="96"/>
+		<anim id="singRIGHTmiss-all" symbol="joint right miss" fps="24" loop="false" x="300" y="-203" playerX="307" playerY="95"/>
+	</animations>
+</character>

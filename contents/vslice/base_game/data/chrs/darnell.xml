@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<character assetPath="characters/darnell" icon="darnell" scale="1" singDuration="8" x="20" y="100" cameraX="200" cameraY="320" flipX="false" noAntialiasing="false" healthColor="#735EB0" vocalsFile="" vsliceHolds="true">
+	<assets>
+		<asset path="characters/darnell"/>
+	</assets>
+	<animations>
+		<anim id="idle" symbol="Idle" fps="24" loop="false" x="0" y="0" playerX="0" playerY="0" indices="0,1,2,3,4,5,6,7,8,9,10,11,12,13"/>
+		<anim id="singLEFT" symbol="Pose Left" fps="24" loop="false" x="1" y="0" playerX="1" playerY="0"/>
+		<anim id="singLEFT-loop" symbol="Left Flame Loop" fps="24" loop="true" x="1" y="0" playerX="1" playerY="0" indices="2,3,4,5,6"/>
+		<anim id="singDOWN" symbol="Pose Down" fps="24" loop="false" x="0" y="-3" playerX="0" playerY="-3"/>
+		<anim id="singDOWN-loop" symbol="Down Flame Loop" fps="24" loop="true" x="0" y="-3" playerX="0" playerY="-3" indices="2,3,4,0"/>
+		<anim id="singUP" symbol="Pose Up" fps="24" loop="false" x="8" y="5" playerX="8" playerY="5"/>
+		<anim id="singUP-loop" symbol="Up Flame Loop" fps="24" loop="true" x="8" y="5" playerX="8" playerY="5" indices="3,4"/>
+		<anim id="singRIGHT" symbol="Pose Right" fps="24" loop="false" x="4" y="3" playerX="4" playerY="3"/>
+		<anim id="singRIGHT-loop" symbol="Right Flame Loop" fps="24" loop="true" x="4" y="3" playerX="4" playerY="3" indices="2"/>
+		<anim id="laugh" symbol="Laugh" fps="24" loop="false" x="0" y="0" playerX="0" playerY="0"/>
+		<anim id="laughCutscene" symbol="Laugh" fps="24" loop="false" x="0" y="0" playerX="0" playerY="0" indices="0,1,2,3,4,5,0,1,2,3,4,5,0,1,2,3,4,5,0,1,2,3,4,5,0,1,2,3,4,5"/>
+		<anim id="lightCan" symbol="Light Can" fps="24" loop="false" x="8" y="1" playerX="8" playerY="1"/>
+		<anim id="kickCan" symbol="Kick Up" fps="24" loop="false" x="15" y="9" playerX="15" playerY="9"/>
+		<anim id="kneeCan" symbol="Knee Forward" fps="24" loop="false" x="7" y="-1" playerX="7" playerY="-1"/>
+		<anim id="pissed" symbol="Gets Pissed" fps="24" loop="false" x="0" y="0" playerX="0" playerY="0" indices="19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39"/>
+	</animations>
+</character>

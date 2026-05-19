@@ -1161,11 +1161,11 @@
 			"mustHitSection": true
 		},
 		{
+			"sectionNotes": [],
+			"sectionBeats": 4,
 			"gfSection": false,
 			"altAnim": false,
-			"sectionNotes": [],
 			"bpm": 120,
-			"sectionBeats": 4,
 			"changeBPM": false,
 			"mustHitSection": true
 		}
@@ -1227,6 +1227,12 @@
 			]
 		],
 		[
+			41674.2644011604,
+			[
+				["Focus Camera", "gf, 0, 0", "expoOut, 16"]
+			]
+		],
+		[
 			44074.2644011604,
 			[
 				["Focus Camera", "dad, 0, 0", "classic, 0"]
@@ -1275,25 +1281,55 @@
 			]
 		],
 		[
+			80645.6929725889,
+			[
+				["Focus Camera", "gf, 0, 0", "expoOut, 16"]
+			]
+		],
+		[
 			81756.8040837001,
 			[
 				["Focus Camera", "dad, 0, 0", "classic, 0"]
 			]
 		],
 		[
-			84283.1198731737,
+			83967.3303994895,
 			[
 				["Focus Camera", "bf, 0, 0", "classic, 0"]
 			]
 		],
 		[
-			86809.4356626474,
+			86177.856715279,
 			[
 				["Focus Camera", "dad, 0, 0", "classic, 0"]
 			]
 		],
 		[
-			91862.0672415948,
+			88388.3830310685,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			90598.9093468579,
+			[
+				["Focus Camera", "dad, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			92177.856715279,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			93756.8040837,
+			[
+				["Focus Camera", "dad, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			95335.7514521211,
 			[
 				["Focus Camera", "bf, 0, 0", "classic, 0"]
 			]
@@ -1305,21 +1341,75 @@
 			]
 		],
 		[
-			99441.0146100158,
+			99125.2251363316,
 			[
 				["Focus Camera", "bf, 0, 0", "classic, 0"]
 			]
 		],
 		[
-			101967.330399489,
+			101335.751452121,
 			[
 				["Focus Camera", "dad, 0, 0", "classic, 0"]
 			]
 		],
 		[
-			109546.277767911,
+			103546.277767911,
 			[
 				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			105756.8040837,
+			[
+				["Focus Camera", "dad, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			108914.698820542,
+			[
+				["Focus Camera", "bf, 0, 0", "classic, 0"]
+			]
+		],
+		[
+			112072.593557384,
+			[
+				["Focus Camera", "gf, 0, 0", "expoOut, 64"]
+			]
+		],
+		[
+			114598.909346858,
+			[
+				["Add Camera Zoom", "0", "0.03"]
+			]
+		],
+		[
+			114914.698820542,
+			[
+				["Add Camera Zoom", "0", "0.03"]
+			]
+		],
+		[
+			115230.488294226,
+			[
+				["Add Camera Zoom", "0", "0.03"]
+			]
+		],
+		[
+			115546.277767911,
+			[
+				["Add Camera Zoom", "0", "0.03"]
+			]
+		],
+		[
+			116177.856715279,
+			[
+				["Add Camera Zoom", "0", "0.03"]
+			]
+		],
+		[
+			116493.646188963,
+			[
+				["Add Camera Zoom", "0", "0.01"]
 			]
 		],
 		[
@@ -1335,68 +1425,51 @@
 			]
 		],
 		[
+			131670.679681786,
+			[
+				["Focus Camera", "dad, 0, 0", "instant, 0"],
+				["Camera Zoom", "1.4, 0", "instant, nll"]
+			]
+		],
+		[
+			131920.679681786,
+			[
+				["Focus Camera", "bf, 0, 0", "instant, 0"]
+			]
+		],
+		[
+			132170.679681786,
+			[
+				["Focus Camera", "dad, 0, 0", "instant, 0"]
+			]
+		],
+		[
+			132420.679681786,
+			[
+				["Focus Camera", "bf, 0, 0", "instant, 0"]
+			]
+		],
+		[
+			132670.679681786,
+			[
+				["Focus Camera", "dad, 0, 0", "instant, 0"]
+			]
+		],
+		[
+			133236.304681786,
+			[
+				["Focus Camera", "gf, 0, 0", "classic, 0"]
+			]
+		],
+		[
 			133670.679681786,
 			[
-				["Focus Camera", "dad, 0, 0", "classic, 0"]
-			]
-		],
-		[
-			137670.679681786,
-			[
-				["Focus Camera", "bf, 0, 0", "classic, 0"]
-			]
-		],
-		[
-			141670.679681786,
-			[
-				["Focus Camera", "dad, 0, 0", "classic, 0"]
-			]
-		],
-		[
-			145670.679681786,
-			[
-				["Focus Camera", "bf, 0, 0", "classic, 0"]
-			]
-		],
-		[
-			149670.679681786,
-			[
-				["Focus Camera", "dad, 0, 0", "classic, 0"]
-			]
-		],
-		[
-			153670.679681786,
-			[
-				["Focus Camera", "bf, 0, 0", "classic, 0"]
-			]
-		],
-		[
-			157670.679681786,
-			[
-				["Focus Camera", "dad, 0, 0", "classic, 0"]
-			]
-		],
-		[
-			161670.679681786,
-			[
-				["Focus Camera", "bf, 0, 0", "classic, 0"]
-			]
-		],
-		[
-			165670.679681786,
-			[
-				["Focus Camera", "dad, 0, 0", "classic, 0"]
-			]
-		],
-		[
-			169670.679681786,
-			[
-				["Focus Camera", "bf, 0, 0", "classic, 0"]
+				["Focus Camera", "dad, 0, 0", "classic, 0"],
+				["Camera Zoom", "1.05, 4", "classic, nll"]
 			]
 		]
 	],
 	"song": "Monster",
-	"stage": "spookyMansion",
 	"cameraMove": {
 		"offset": 30,
 		"speed": 1,
@@ -1404,6 +1477,7 @@
 		"enabled": false
 	},
 	"needsVoices": true,
+	"stage": "spookyMansion",
 	"format": "viroviroice_v1",
 	"speed": 1.6,
 	"bpm": 95
