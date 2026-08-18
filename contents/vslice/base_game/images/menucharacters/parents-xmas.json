@@ -1,9 +1,0 @@
-{
-	"confirm_anim": "confirm",
-	"antialiasing": true,
-	"idle_anim": "idle",
-	"position": [159, 30],
-	"scale": 0.9,
-	"image": "parents-xmas",
-	"flipX": false
-}
