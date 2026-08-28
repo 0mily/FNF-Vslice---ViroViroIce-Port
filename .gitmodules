@@ -1,4 +1,4 @@
 [submodule "funkin-vslice"]
-	path = funkin-vslice
+	path = contents/funkin-vslice
 	url = https://github.com/0mily/funkin-vslice
 	shallow = true
